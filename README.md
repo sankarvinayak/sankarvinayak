@@ -27,15 +27,18 @@ I am passionate about building intelligent systems that bridge theory and real-w
 
 ---
 
+
+
 ## 📫 How to reach me
 
 Feel free to connect with me for collaborations or conversations in AI, ML, and cutting-edge neural architectures.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankar-vinayak-e-p/)
 ---
 
 <!--
 Add your social links here if you wish! For example:
-[LinkedIn](#) | [Twitter](#) | [Personal Website](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankar-vinayak-e-p/) | [Twitter](#) | [Personal Website](#)
 -->
 
 <!--
