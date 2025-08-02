@@ -9,6 +9,8 @@ B.Tech Computer Science and Engineering, GEC Palakkad (2019–2023)
 ## 🏆 Achievement
 - **GATE CSE 2024**
   - All India Rank: **112**
+- **UGC NET 2025 July**
+  - All India Rank: **63**
 
 ---
 
