@@ -45,9 +45,14 @@ Feel free to connect with me for collaborations or conversations in AI, ML, and 
 Add your social links here if you wish! For example:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankar-vinayak-e-p/) | [Twitter](#) | [Personal Website](#)
 -->
-
+## Project
+- [Video and image manipulation detection using multiple deeplearning techniques](https://ijariie.com/FormDetails.aspx?MenuScriptId=219892)
+- [Neural network framework based on numpy](https://github.com/sankarvinayak/DL-assignment1) inspired from frameworks like Pytorch and Tensorflow
+- [Character level transliteration from English-Malayalam](https://github.com/sankarvinayak/DL-assignment-3)
+- [Simple flutter app for co ordinating tash collection](https://github.com/sankarvinayak/HarithaKarma)
 <!--
 Optionally showcase pinned or favorite projects below:
+
 - [Project Name](GitHub link) - Short description.
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankarvinayak&layout=compact&theme=dark&langs_count=10)
