@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sankar Vinayak
+# Hi, I’m Sankar Vinayak
 
 🎓 **M.Tech Computer Science and Engineering Student**  
 Indian Institute of Technology Madras (2024–2026)  
@@ -6,7 +6,7 @@ B.Tech Computer Science and Engineering, GEC Palakkad (2019–2023)
 
 ---
 
-## 🏆 Achievement
+## Achievements
 - **GATE CSE 2024**
   - All India Rank: **112**
 - **UGC NET 2025 July**
@@ -14,7 +14,7 @@ B.Tech Computer Science and Engineering, GEC Palakkad (2019–2023)
 
 ---
 
-## 💡 Interests & Expertise
+## Interests & Expertise
 
 - **Machine Learning**
 - **Deep Learning**
@@ -26,7 +26,7 @@ Currently working on **Equilibrium Propagation** which was proposed as a biologi
 
 ---
 
-## 📈 About Me
+## About Me
 
 I am passionate about building intelligent systems that bridge theory and real-world applications. My academic focus at IIT Madras is complemented by extensive work in neural networks and AI, with a particular interest in biologically inspired computing.
 
@@ -34,7 +34,7 @@ I am passionate about building intelligent systems that bridge theory and real-w
 
 
 
-## 📫 How to reach me
+##  How to reach me
 
 Feel free to connect with me for collaborations or conversations in AI, ML, and cutting-edge neural architectures.
 
@@ -50,7 +50,7 @@ Add your social links here if you wish! For example:
 Optionally showcase pinned or favorite projects below:
 - [Project Name](GitHub link) - Short description.
 -->
-### 🔥 My GitHub Stats
+### Most used languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankarvinayak&layout=compact&theme=dark&langs_count=10)
 
