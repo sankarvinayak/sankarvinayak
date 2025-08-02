@@ -20,6 +20,9 @@ B.Tech Computer Science and Engineering, GEC Palakkad (2019–2023)
 - **Deep Learning**
 - **Reinforcement Learning**
 - **Spiking Neural Networks**
+I am primarily interested in bio plaussible alternative, secure and energy efficient deeplearning models, architecture and algorithms.
+
+Currently working on **Equilibrium Propagation** which was proposed as a biologically possible alternative to tradirional backprop, scaling it to larger network and improving its perfomance of different set of datasets.
 
 ---
 
