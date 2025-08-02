@@ -51,6 +51,3 @@ Optionally showcase pinned or favorite projects below:
 - [Project Name](GitHub link) - Short description.
 -->
 
----
-
-> “Driven by curiosity, powered by code.”
