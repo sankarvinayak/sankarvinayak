@@ -50,4 +50,7 @@ Add your social links here if you wish! For example:
 Optionally showcase pinned or favorite projects below:
 - [Project Name](GitHub link) - Short description.
 -->
+### 🔥 My GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankarvinayak&layout=compact&theme=dark&langs_count=10)
 
